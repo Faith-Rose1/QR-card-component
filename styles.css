@@ -18,20 +18,20 @@ body {
 }
 
 main {
-  inline-size: min(100% - 2rem, 21rem);
+  inline-size: min(100% - 2rem, 20rem);
 }
 
 .qr-card {
   background-color: var(--White);
   padding-inline: 1rem;
   padding-block: 1rem;
-  border-radius: 1.2rem;
+  border-radius: 1rem;
   box-shadow: 0 10px 20px var(--box-shadow);
 }
 
 .qr-image {
   max-inline-size: 100%;
-  border-radius: 0.6rem;
+  border-radius: 0.5rem;
 }
 
 .qr-description {
@@ -49,5 +49,4 @@ main {
   color: var(--Slate-500);
   font-size: 0.9375rem;
   line-height: 1.3rem;
-  margin-block-end: 1.3rem;
 }
