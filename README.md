@@ -21,8 +21,8 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Add your GitHub code link here]
-- Live Site URL: [Add your GitHub Pages link here]
+- Solution URL: [Add your GitHub code link here](https://github.com/Faith-Rose1/QR-card-component)
+- Live Site URL: [Add your GitHub Pages link here](https://faith-rose1.github.io/QR-card-component/)
 
 ## My process
 
