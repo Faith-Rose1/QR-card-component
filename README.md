@@ -44,4 +44,4 @@ body{
 
 ## Author
 
-- Frontend Mentor - [Faith-Rose1]
+- Frontend Mentor - [@Faith-Rose1](https://www.frontendmentor.io/profile/Faith-Rose1)
