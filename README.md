@@ -18,7 +18,7 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 
 ## Screenshot
-
+![Design Screenshot](./screenshot/screenshot.png)
 ## Links
 
 - Solution URL: [Add your GitHub code link here](https://github.com/Faith-Rose1/QR-card-component)
@@ -35,8 +35,13 @@ Users should be able to:
 
 ### What I learned
 
-[Write a sentence here about what you found interesting in this specific project!]
+- How to center the card perfectly by using flex box, and how to make it centered when there isn't enough text in the page by using 
+```CSS
+body{
+  min-block-size: 100vh;
+}
+```
 
 ## Author
 
-- Frontend Mentor - [FaithNana]
+- Frontend Mentor - [Faith-Rose1]
