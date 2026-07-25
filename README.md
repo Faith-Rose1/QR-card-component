@@ -19,10 +19,11 @@ Users should be able to:
 
 ## Screenshot
 ![Design Screenshot](./screenshot/screenshot.png)
+
 ## Links
 
-- Solution URL: [Add your GitHub code link here](https://github.com/Faith-Rose1/QR-card-component)
-- Live Site URL: [Add your GitHub Pages link here](https://faith-rose1.github.io/QR-card-component/)
+- Solution URL: [Add your GitHub code link here](https://github.com/Faith-Rose1/Blog-Preview-Card)
+- Live Site URL: [Add your GitHub Pages link here](https://faith-rose1.github.io/Blog-Preview-Card/)
 
 ## My process
 
